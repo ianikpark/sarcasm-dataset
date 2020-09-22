@@ -21,16 +21,16 @@ Undergraduates of [Simon Fraser University](https://www.sfu.ca/) enrolled in the
 
     - [GitHub](https://github.com/Leo3738)
 
-    - [SFU Email](austins@sfu.ca)
+    - [SFU Email](mailto:austins@sfu.ca)
 
 - Hayyan Liaqat
 
     - [GitHub](https://github.com/hliaqat)
 
-    - [SFU Email](hliaqat@sfu.ca)
+    - [SFU Email](mailto:hliaqat@sfu.ca)
 
 - Ian Park
 
     - [GitHub](https://github.com/ianikpark)
 
-    - [SFU Email](ian_park@sfu.ca)
+    - [SFU Email](mailto:ian_park@sfu.ca)

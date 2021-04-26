@@ -12,7 +12,7 @@
     │       └── 175.mp4, 176.mp4, ..., 202.mp4          # 175 - 202
     ├── Detection_of_Conversational_Sarcasm.pdf         # Report
     ├── README.md
-    └── install-openface.sh                             # [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) installer
+    └── install-openface.sh                             # OpenFace installer
 
 ## Abstract
 
